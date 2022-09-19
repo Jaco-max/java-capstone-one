@@ -1,0 +1,3 @@
+Capitec#01#1000th_branch#corner#c/o_Landros_&_Mbeki#789654#2021_11_10#750000#125000#false#
+Anglo_Gold#02#Mine_Anglo_Platinum#Mine#Silikon#7894567#2020_10_15#7500000#1500000#false#
+Anglo_Platinum#03#Mine_Anglo_Platinum#Mine#Silikon#7894568#2022_10_15#7500000#1500000#false#

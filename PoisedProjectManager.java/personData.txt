@@ -1,0 +1,5 @@
+name#surname#jobtitle#email#contactnumber#address#01#
+EL_Architects#Ernie#Client#EL@gmail.co.za#0711111111#Polokwane_CBD#02#
+Fred#Towing#Client#ftowing@gmail.coms#0154545453#By_the_mountain#03#
+Pete#Towing#Client#ptowing@gmail.coms#0154545455#By_the_sea#04#
+Piet#Van_As#Client#pietvanas@gmaill.com#0152961254#Street_House#01#

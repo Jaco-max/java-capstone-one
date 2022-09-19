@@ -1,0 +1,8 @@
+name#surname#jobtitle#email#contactnumber#address#projectnumber#
+name1#surname1#jobtitle1#email1#contactnumber1#address1#projectnumber1#
+name2#surname2#jobtitle2#email2#contactnumber2#address2#projectnumber2#
+name3#surname3#jobtitle3#email3#contactnumber3#address3#projectnumber3#
+name4#surname4#jobtitle4#email4#contactnumber4#address4#projectnumber4#
+Ernie#Arch#architect#architects@gnail.com#012545454#Polokwane_cbd#1254#
+Fred#Von#architect#noe@gmail.com#014525252#Gauteng_CBD#154#
+Fanus#Lewis#architect#lewis@fanus.com#056865655#155_Genl_Maritz_Str_Welgelegen_Polokwane_0700#154#
